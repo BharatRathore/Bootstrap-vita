@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.masthead {
+    height: 100vh;
+    min-height: 500px;
+    background-image: url("img.jpg"), linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5));
+    background-blend-mode: overlay;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: white;
+  }
+  .abtme{
+    background-color:#dee1ec;
+    padding: 40px;
+  }
+ .aboutme{
+     
+     margin: auto;
+     
+     font-weight: lighter;
+     
+ }
+ .fa{
+     color:#575151;
+ }
+ 
